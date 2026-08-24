@@ -4,3 +4,4 @@
 
 - [Sobre a mostra](docs-sobre.md)
 - [Agenda](docs-agenda.md)
+##como usar esse manual
