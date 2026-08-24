@@ -1,1 +1,3 @@
 - Títulos de filmes em itálico.
+- Frases curtas, na voz ativa.
+- Data no formato dd/mm/aaaa.
